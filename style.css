@@ -1,0 +1,115 @@
+/*BODY*/
+body{
+  font-family: 'Playfair Display', serif;
+  margin: 0 auto;
+  max-width:1200px;
+}
+
+/*top*/
+header{
+  background-color: #4ea0ff;
+  background-image: url(img/pattern.png);
+  background-size: 270px;
+  height: 90px;
+  width: 100%;
+  margin: auto;
+}
+
+/*sistemare grandezza logo*/
+#logo{
+  width: 250px;
+  padding-top: 30px;
+}
+
+/*Mid*/
+h1{
+  margin: 0;
+  padding-top: ??;
+  font-size: 45px;
+  font-weight: bold;
+}
+
+#autore{
+  color: #888888;
+  font-size: 17px;
+  margin-top: -10px;
+}
+
+#the-b{
+color:#4ea0ff;
+}
+
+#data{
+  font-size: 12px;
+}
+
+/*foto*/
+#photo{
+  font-size: 10px;
+  margin-top: 0px;
+}
+
+/*descrizione*/
+#descrizione{
+  line-height: 17px;
+}
+
+#yellow{
+  background-color: rgba(253, 234, 122, 0.5);
+}
+
+/*lista*/
+#lista{
+  padding-left: 17px;
+}
+
+/*tabbella*/
+table{
+  border-collapse: collapse;
+}
+
+#size-table{
+  width: 250px;
+}
+
+th{
+  background-color: #20a9e5;
+  color: white;
+  text-align: left;
+}
+
+#tdceleste{
+  background-color: #b1e5f2;
+}
+
+/*footer*/
+#link{
+  color: #888888;
+  font-size: 14px;
+  margin-top: 30px;
+  font-weight: bold;
+}
+
+.img-1{
+  width: 250px;
+  height: 150px;
+  background-image: url(img/monitor.jpg);
+  background-size: cover;
+  background-position: cover;
+}
+
+.img-2{
+  width: 250px;
+  height: 150px;
+  background-image: url(img/graph.jpg);
+  background-size: cover;
+  background-position: cover;
+  margin-bottom: 100px;
+}
+
+#lorem{
+  color: white;
+  text-align: center;
+  font-weight: bold;
+  
+}
