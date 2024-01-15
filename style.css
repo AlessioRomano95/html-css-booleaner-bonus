@@ -15,7 +15,7 @@ header{
   margin: auto;
 }
 
-/*sistemare grandezza logo*/
+/*logo*/
 #logo{
   width: 250px;
   padding-top: 30px;
@@ -24,7 +24,6 @@ header{
 /*Mid*/
 h1{
   margin: 0;
-  padding-top: ??;
   font-size: 45px;
   font-weight: bold;
 }
@@ -111,5 +110,4 @@ th{
   color: white;
   text-align: center;
   font-weight: bold;
-  
 }
