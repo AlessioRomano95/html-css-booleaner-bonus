@@ -2,7 +2,6 @@
 body{
   font-family: 'Playfair Display', serif;
   margin: 0 auto;
-  max-width:1200px;
 }
 
 /*top*/
@@ -13,6 +12,15 @@ header{
   height: 90px;
   width: 100%;
   margin: auto;
+}
+
+/*conteiner*/
+.conteiner{
+  background-color: rgb(255, 255, 255);
+  margin: auto;
+  border: 1px solid rgb(255, 255, 255);
+  overflow:auto;
+  width: 69%;
 }
 
 /*logo*/
@@ -31,7 +39,7 @@ h1{
 #autore{
   color: #888888;
   font-size: 17px;
-  margin-top: -10px;
+  margin-top: -5px;
 }
 
 #the-b{
@@ -68,7 +76,7 @@ table{
 }
 
 #size-table{
-  width: 250px;
+  width: 200px;
 }
 
 th{
